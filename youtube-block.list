@@ -1,9 +1,8 @@
-youtube.googleapis.com
-video.google.com
-(\.|^)ytimg\.com$
-googleusercontent.com
-(\.|^)googlevideo\.com$
-youtubei.googleapis.com
-(\.|^)m\.youtube\.com$
-^(ytimg\.com|ggpht\.com)$
-(\.|^)youtubekids\.com$
+.*youtube\.com$
+.*googlevideo\.com$
+.*ytimg\.com$
+.*ggpht\.com$
+.*googleusercontent\.com$
+.*youtubekids\.com$
+video\.google\.com$
+youtubei\.googleapis\.com$
