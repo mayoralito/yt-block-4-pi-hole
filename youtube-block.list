@@ -1,8 +1,8 @@
-.*youtube\.com$
-.*googlevideo\.com$
-.*ytimg\.com$
-.*ggpht\.com$
-.*googleusercontent\.com$
-.*youtubekids\.com$
-video\.google\.com$
-youtubei\.googleapis\.com$
+.*youtube.com
+.*googlevideo.com
+.*ytimg.com
+.*ggpht.com
+.*googleusercontent.com
+.*youtubekids.com
+video.google.com
+youtubei.googleapis.com
